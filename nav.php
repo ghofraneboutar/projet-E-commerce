@@ -12,26 +12,29 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Nos Categories</a>
+                    <a class="nav-link" href="#">Nos catégories</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
                 </li>
+
+
             </ul>
             <ul class="navbar-nav me-left">
                 <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i>Panier</a>
+                    <a class="nav-link" href="#"><i class="fas fa-shopping-cart "></i>Panier</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fas fa-user-plus"></i>Cree un compte</a>
+                    <a class="nav-link" href="#"><i class="fas fa-user-plus"></i>Créer un compte</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#"><i class="fas fa-sign-in"></i>Connexion</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#"><i class="fas fa-sign-out"></i>Deconnexion</a>
+                    <a class="nav-link" href="#"><i class="fas fa-sign-out"></i>Déconnexion</a>
                 </li>
             </ul>
+
         </div>
     </div>
 </nav>
